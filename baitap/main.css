@@ -1,0 +1,10 @@
+h1 {
+    color: red;
+}
+p  {
+    color: green;
+}/* kĩ thuật dẫn ngược */
+.child{
+    height: 100px;
+}
+
